@@ -19,9 +19,11 @@ body {
 }
 .title {
     font-size: 30px;
+    font-weight: lighter;
 }
 .position {
     font-size: 28px;
+    font-weight: lighter;
 }
 .blue, .m, .e, .w, .a{
     color: #3399FF;
@@ -32,12 +34,15 @@ body {
     padding-bottom: 10px;
     margin-bottom: 10px;
 }
+
 .tagline {
     text-align: center;
     font-weight: bold;
-    font-size: 20px;
+    font-size: 15px;
     padding: 20px;
     color:  #3399FF;
+    position: relative;
+    top: -80px;
 }
 .line {
     margin-top: 10px;
